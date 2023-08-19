@@ -23,7 +23,7 @@
 <a href="https://instagram.com/mumincanexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mumincanexe" height="30" width="40" /></a>
 <a href="https://medium.com/@mumincanexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mumincanexe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mumincanexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mumincanexe" height="30" width="40" /></a>
-<a href="https://discord.gg/users/245274509332971521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/245274509332971521" height="30" width="40" /></a>
+<a href="https://discord.com/users/245274509332971521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/245274509332971521" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
